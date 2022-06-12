@@ -11,6 +11,7 @@ function App() {
     <Test/>
     <User/>
     <Post/>
+    <Post/>
     </div>
   );
 }
