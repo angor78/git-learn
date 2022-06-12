@@ -13,6 +13,8 @@ function App() {
     <User/>
     <Post/>
     <Post/>
+       <div>Login</div>
+       <div>Login</div>
     </div>
   );
 }
