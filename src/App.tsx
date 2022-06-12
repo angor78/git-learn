@@ -10,6 +10,8 @@ function App() {
     <Test/>
     <User/>
     <Post/>
+    <Post/>
+    <Post/>
     </div>
   );
 }
