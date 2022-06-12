@@ -11,7 +11,6 @@ function App() {
     <User/>
     <Post/>
     <Post/>
-    <Post/>
     </div>
   );
 }
