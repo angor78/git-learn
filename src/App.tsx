@@ -13,6 +13,8 @@ function App() {
     <User/>
     <Post/>
     <Post/>
+      <div>Popup</div>
+      <div>Popup</div>
     </div>
   );
 }
