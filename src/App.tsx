@@ -10,6 +10,7 @@ function App() {
     <Test/>
     <Test/>
     <User/>
+    <User/>
     <Post/>
     <Post/>
     </div>
