@@ -7,6 +7,8 @@ import {Post} from "./Post/Post";
 function App() {
   return (
     <div className="App">
+      <div>Login</div>
+      <div>Login</div>
     <Test/>
     <Test/>
     <User/>
